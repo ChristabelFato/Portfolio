@@ -565,28 +565,6 @@ header .links a:hover:after {
   border: 2px solid #7562E0;
   border-radius: 5%;
 }
-.projects .image img {
-  border-radius: 5%;
-  height: 100%;
-  animation-name: rotate;
-  animation-duration: 10s;
-  animation-delay: 0.75s;
-  animation: rotate 10s infinite;
-}
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(90deg);
-  }
-  50% {
-    transform: rotate(180deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
 .projects h4 {
   color: #7562E0;
   margin-top: 30px;
@@ -1411,28 +1389,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     border: 2px solid #7562E0;
     border-radius: 5%;
   }
-  .projects .image img {
-    border-radius: 5%;
-    height: 100%;
-    animation-name: rotate;
-    animation-duration: 10s;
-    animation-delay: 0.75s;
-    animation: rotate 10s infinite;
-  }
-  @keyframes rotate {
-    0% {
-      transform: rotate(0deg);
-    }
-    25% {
-      transform: rotate(90deg);
-    }
-    50% {
-      transform: rotate(180deg);
-    }
-    100% {
-      transform: rotate(360deg);
-    }
-  }
   .projects h4 {
     color: #7562E0;
     margin-top: 30px;
@@ -2242,28 +2198,6 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   .projects .image {
     border: 2px solid #7562E0;
     border-radius: 5%;
-  }
-  .projects .image img {
-    border-radius: 5%;
-    height: 100%;
-    animation-name: rotate;
-    animation-duration: 10s;
-    animation-delay: 0.75s;
-    animation: rotate 10s infinite;
-  }
-  @keyframes rotate {
-    0% {
-      transform: rotate(0deg);
-    }
-    25% {
-      transform: rotate(90deg);
-    }
-    50% {
-      transform: rotate(180deg);
-    }
-    100% {
-      transform: rotate(360deg);
-    }
   }
   .projects h4 {
     color: #7562E0;
