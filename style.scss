@@ -135,9 +135,10 @@ p{color: white; font-size: 15px; font-family: light; padding: 5px 80px;}
 
 .row>*{margin-bottom: 10px;}
 
-.purple{background-color: #7562E0; height: 100%; padding-top: 100px; padding-bottom: 10px; margin-bottom: 20px; margin-top: 40px; color: white; img{margin-bottom: 10px;} h4{font-size: 20px; font-family: bl;} transition: 1s;}
+.purple{background-image: url(./img/desi.jpg); height: 100%; padding-top: 100px; padding-bottom: 10px; margin-bottom: 20px; margin-top: 40px; color: white; img{margin-bottom: 10px;} h4{font-size: 20px; font-family: bl;} transition: 1s;}
 .purple:hover{transform: scale(0.8); z-index: 2;}
-.box{background-color: #BDBDBD; height: 100%; padding-top: 100px; padding-bottom: 10px;margin-bottom: 10px; margin-top: 40px; color: white; img{margin-bottom: 10px;} h4{font-size: 20px; font-family: bl;} transition: 1s;}
+.box{background-image: url(./img/web.jpg); height: 100%; padding-top: 100px; padding-bottom: 10px;margin-bottom: 10px; margin-top: 40px; color: white; img{margin-bottom: 10px;} h4{font-size: 20px; font-family: bl;} transition: 1s;}
+.boxx{background-image: url(./img/DM.jpg); height: 100%; padding-top: 100px; padding-bottom: 10px;margin-bottom: 10px; margin-top: 40px; color: white; img{margin-bottom: 10px;} h4{font-size: 20px; font-family: bl;} transition: 1s;}
 .box:hover{transform: scale(0.8); z-index: 2;}
 
 }

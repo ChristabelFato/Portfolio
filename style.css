@@ -321,7 +321,7 @@ header .links a:hover:after {
   margin-bottom: 10px;
 }
 .about .purple {
-  background-color: #7562E0;
+  background-image: url(./img/desi.jpg);
   height: 100%;
   padding-top: 100px;
   padding-bottom: 10px;
@@ -342,7 +342,7 @@ header .links a:hover:after {
   z-index: 2;
 }
 .about .box {
-  background-color: #BDBDBD;
+  background-image: url(./img/web.jpg);
   height: 100%;
   padding-top: 100px;
   padding-bottom: 10px;
@@ -355,6 +355,23 @@ header .links a:hover:after {
   margin-bottom: 10px;
 }
 .about .box h4 {
+  font-size: 20px;
+  font-family: bl;
+}
+.about .boxx {
+  background-image: url(./img/DM.jpg);
+  height: 100%;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+  color: white;
+  transition: 1s;
+}
+.about .boxx img {
+  margin-bottom: 10px;
+}
+.about .boxx h4 {
   font-size: 20px;
   font-family: bl;
 }
